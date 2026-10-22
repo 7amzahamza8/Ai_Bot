@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+pydantic
+faster-whisper
+sounddevice
+sympy
+edge-tts
+pygame
+matplotlib
+numpy
